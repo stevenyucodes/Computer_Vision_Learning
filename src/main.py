@@ -1,6 +1,6 @@
 
 import cv2
-from transformers import DetrImageProcessor, DetrForObjectDetection
+from sd import DetrImageProcessor, DetrForObjectDetection
 import torch
 
 processor = DetrImageProcessor.from_pretrained("facebook/detr-resnet-50")
