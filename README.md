@@ -1,7 +1,7 @@
  
 # Computer Vision Learning Repository
 
-This repository is dedicated my learning and experimenting with computer vision techniques. 
+This repository is dedicated for my learning and experimenting with computer vision techniques. 
 
 ## Project Structure
 - `datasets/`: Stores or links to datasets used for experiments.
